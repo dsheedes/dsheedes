@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gvozden Despotovski</h1>
 <h3 align="center">A passionate dev from Serbia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dsheedes" alt="dsheedes" /> </p>
+<p>Currently I'm mainly focused on JavaScript and Node.js work as well as HTML & CSS. 
+I have experience with other languages such as C, C++, Java, PHP however, right now, JavaScript suits me best and I would say it's my strongest language.
+
+Hopefully you will find repositories I have usefull, and if you do, please share a star or two with me :)
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsheedes&layout=compact" alt="dsheedes" /></p>
 
